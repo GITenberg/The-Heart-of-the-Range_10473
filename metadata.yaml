@@ -1,0 +1,25 @@
+_repo: The-Heart-of-the-Range_10473
+_version: 0.0.1
+creator:
+  author:
+    agent_name: White, William Patterson
+    alias: White, W. P. (William Patterson)
+    birthdate: 1884
+    gutenberg_agent_id: '3549'
+    url: http://www.gutenberg.org/2009/agents/3549
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10473'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- !lcsh 'Fiction'
+- GITenberg
+title: The Heart of the Range
+url: http://www.gutenberg.org/ebooks/10473
